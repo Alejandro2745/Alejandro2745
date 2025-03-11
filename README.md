@@ -3,9 +3,8 @@
 :computer: **Estudiante de ingenieria de sistemas**
 
 ### ⚡Actividad reciente:
-<!--START_SECTION_activity-->
-
-<!--END_SECTION_activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 <!--
 **Alejandro2745/Alejandro2745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
