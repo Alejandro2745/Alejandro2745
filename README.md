@@ -5,12 +5,9 @@
 ### ⚡Actividad reciente:
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Alejandro2745/Edge_Project_Camera](https://github.com/Alejandro2745/Edge_Project_Camera)<br>
-2. ⬆️ Pushed undefined commit(s) to [Alejandro2745/Edge_Project_Camera](https://github.com/Alejandro2745/Edge_Project_Camera)<br>
-3. ⬆️ Pushed undefined commit(s) to [Alejandro2745/Edge_Project_Camera](https://github.com/Alejandro2745/Edge_Project_Camera)<br>
-4. ⬆️ Pushed undefined commit(s) to [Alejandro2745/Edge_Project_Camera](https://github.com/Alejandro2745/Edge_Project_Camera)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 15th, 2026, 4:53:13 AM
+Last Updated: Sunday, November 15th, 2026, 6:29:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
